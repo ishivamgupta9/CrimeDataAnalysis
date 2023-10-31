@@ -1,11 +1,10 @@
-# US Cities Analysis with Python
+# US Cities Crime Analysis with Python
 
 This repository contains a collection of data on various cities in the United States and an analysis of this data using Python. The analysis includes the use of popular Python libraries such as NumPy, Pandas, and data visualization with Plotly and Matplotlib.
 
 ## Data
 
-The data in this repository includes information on a wide range of US cities, such as population, geographical location, climate, and other relevant attributes. This data is provided in various formats, including CSV files, JSON files, or other structured data sources.
-
+The data in this repository includes information on a wide range of US cities and their crime statistics. I collected this data from US government websites, and I also utilized tools like BeautifulSoup and Selenium for data extraction, particularly for data that was not in the correct format. The dataset includes information such as population, geographical location, climate, and other relevant attributes. This data is provided in various formats, including CSV files, JSON files, or other structured data sources.
 ## Analysis
 
 The primary goal of this project is to perform data analysis on the provided city data. The analysis covers a variety of aspects, including:
